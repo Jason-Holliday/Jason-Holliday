@@ -1,7 +1,7 @@
 # Hi, I'm Jason Holliday 👋
 
 ## 💫 About Me:
-- Indie Full-Stack Developer, specializing in Web Apps and Landing Pages.<br>- Currently working as a Junior Software Quality Engineer<br>-  I completed an apprenticeship as an IT Specialist for Application Development.<br>- All projects are developed from scratch, from planning and design to the final product.<br>- My goal is to solve real-world problems.<br>
+- Indie Full-Stack Developer, specializing in Web Apps and Landing Pages.<br>- Currently working as a Junior Software Quality Engineer<br>-  I completed an apprenticeship as an IT Specialist for Application Development.<br>- All projects are developed from scratch, from planning and design to the final product.<br>- Experience in web accessibility<br> - My goal is to solve real-world problems.<br>
 
 
 ## 💻 Tech Stack:
