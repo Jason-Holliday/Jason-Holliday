@@ -2,7 +2,11 @@
 
 ## 💫 About Me:
 - Indie Full-Stack Developer, specializing in Web Apps and Landing Pages.
-- Currently working as a Junior Software Quality Engineer<br>-  I completed an apprenticeship as an IT Specialist for Application Development.<br>- All projects are developed from scratch, from planning and design to the final product.<br>- Experience in web accessibility<br> - My goal is to solve real-world problems.<br>
+- Currently working as a Junior Software Quality Engineer.
+- I completed an apprenticeship as an IT Specialist for Application Development.
+- All projects are developed from scratch, from planning and design to the final product.
+- Experience in web accessibility
+- My goal is to solve real-world problems.
 
 
 ## 💻 Tech Stack:
